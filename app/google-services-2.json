@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "813603952144",
+    "project_id": "my-messenger-e24d7",
+    "storage_bucket": "my-messenger-e24d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813603952144:android:a7c9ebef1e19d12fcb1c95",
+        "android_client_info": {
+          "package_name": "com.example.mymessenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKzcgDUKCcmbskTF88eNZmrB3HBbyerhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
